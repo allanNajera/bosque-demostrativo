@@ -1,0 +1,74 @@
+/* You can add global styles to this file, and also import other style files */
+label{
+    font-weight: bold;
+  }
+  /*
+  body { background-color: rgb(47, 71, 138) !important; }*/
+  
+  body {
+    background-color: rgb(0, 79, 116);
+  /*  background-image: url("src\assets\img\home.jpg");*/
+  }
+  
+  
+  #form{
+    margin: 20px;
+  
+  }
+  
+  #card{
+    border: solid;
+ 
+  }
+  
+  #tittle{
+    text-align: center;
+    font-size: 60px;
+  }
+  .derecha{
+    left: 200px;
+  }
+
+
+  select option{
+  
+    background: rgba(0, 0, 0, 0.3);
+    color: #fff;
+      
+}
+
+
+
+select {
+  
+  background: rgba(0, 0, 0, 0.3);
+  color: #fff;
+    
+}
+
+select:invalid { color: black; }
+
+
+
+.mtt-0 {
+  margin-top: 2 !important;
+}
+
+
+.divider{
+  width:5px;
+  height:auto;
+  display:inline-block;
+}
+
+.backgroundContainer{
+  height: 100%;
+  min-height: 50vh;
+}
+
+.icon {
+  color: white;
+  max-width: 2%;
+  max-height: 2%;
+  object-fit: contain;
+}
