@@ -23,7 +23,7 @@ const BosqueDemostrativo = () => {
         </div>
 
         <div >
-          <p className='center-justify p-details'>La Reserva Ecológica de la Sede de Occidente (RESO), cuenta con el sector Bosque Demostrativo. El sector Bosque Demostrativo está ubicado estratégicamente en el corredor interurbano de San Ramón, este tiene una extensión total de 1 hectárea y 308 metros. Cuenta con senderos de cementos que recorren alrededor de 900 metros, además tiene una variedad de árboles forestales representando a la zona de vida del bosque húmedo pre-montano. Este pulmón de la ciudad de San Ramón, posee el modulo didáctico de ecología, anfiteatro, pasa parte de la quebrada estero, modelos de prácticas sostenibles, además tiene otros servicios en el conjunto de aulas 100, como lo son los baños y estacionamiento.
+          <p className='center-justify p-details'>La Reserva Ecológica de la Sede de Occidente (RESO), cuenta con el zona Bosque Demostrativo. El zona Bosque Demostrativo está ubicado estratégicamente en el corredor interurbano de San Ramón, este tiene una extensión total de 1 hectárea y 308 metros. Cuenta con senderos de cementos que recorren alrededor de 900 metros, además tiene una variedad de árboles forestales representando a la zona de vida del bosque húmedo pre-montano. Este pulmón de la ciudad de San Ramón, posee el modulo didáctico de ecología, anfiteatro, pasa parte de la quebrada estero, modelos de prácticas sostenibles, además tiene otros servicios en el conjunto de aulas 100, como lo son los baños y estacionamiento.
           </p>
         </div>
 
