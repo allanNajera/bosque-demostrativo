@@ -10,6 +10,12 @@ label{
   /*  background-image: url("src\assets\img\home.jpg");*/
   }
   
+  .body-complete {
+    display: grid;
+    min-height: 100vh;
+    grid-template-rows: auto 1fr auto;
+    background: white;
+  }
   
   #form{
     margin: 20px;
