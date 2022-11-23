@@ -31,7 +31,7 @@ const BosqueDemostrativo = () => {
                     </div>
 
         <div className='mt-3 center-text ' >
-          <div><h3 className='h3-details ' >Bosque demostrativo</h3></div>
+          <div><h3 className='h3-details ' >Bosque Demostrativo</h3></div>
         </div>
 
         <div >
@@ -41,7 +41,7 @@ const BosqueDemostrativo = () => {
 
         <div>
           <h5>
-            ¿Quieres Visitar el Bosque demostrativo?
+            ¿Quieres Visitar el Bosque Demostrativo?
           </h5>
           <p className='center-justify p-details'>
             Para visitar el Bosque Demostrativo se requiere de una previa cita, para obtenerla se puede comunicar a los números de teléfono 2511-7117 o bien, al 8837-5790, este mismo se encuentra ubicado 1 km al oeste del Banco Nacional en San Ramón Centro, dentro del caserío San Pedro, distrito Alfaro.
@@ -53,7 +53,7 @@ const BosqueDemostrativo = () => {
             Historia del Bosque Demostrativo
           </h5>
           <p className='center-justify p-details ' >
-            La idea del Bosque Demostrativo nació de la Profesora Sonia Delgado Quesada para optar por el título de Licenciatura en Biología, Escuela de Biología, Facultad de Ciencias Naturales, Universidad de Costa Rica, San José, Costa Rica año 1986,  cuyo aporte principal fue el de restituir el terreno sin bosque adjunto a la Sede, sembrando árboles que provinieron de los bosques representativos del cantón, tales como: los existentes en las comunidades de San Isidro, Las Musas y Piedades Sur. Este bosque es la base del proyecto de trabajo comunal universitario (TCU) del proyecto número TC-517 y en el pasado su gestora lo inscribió como proyecto de Extensión Docente "Complejo Natural Educativo y Recreativo: Bosque Demostrativo de la Sede de Occidente". Desde el año 2005, el bosque demostrativo ha sido modalidad de Trabajo Comunal Universitario. A partir de ese año hasta la actualidad se ha incluido la interdisciplinariedad con la participación de estudiantes de varias carreras en busca de los mejores beneficios para el mismo.
+            La idea del Bosque Demostrativo nació de la Profesora Sonia Delgado Quesada para optar por el título de Licenciatura en Biología, Escuela de Biología, Facultad de Ciencias Naturales, Universidad de Costa Rica, San José, Costa Rica año 1986,  cuyo aporte principal fue el de restituir el terreno sin bosque adjunto a la Sede, sembrando árboles que provinieron de los bosques representativos del cantón, tales como: los existentes en las comunidades de San Isidro, Las Musas y Piedades Sur. Este bosque es la base del proyecto de trabajo comunal universitario (TCU) del proyecto número TC-517 y en el pasado su gestora lo inscribió como proyecto de Extensión Docente "Complejo Natural Educativo y Recreativo: Bosque Demostrativo de la Sede de Occidente". Desde el año 2005, el Bosque Demostrativo ha sido modalidad de Trabajo Comunal Universitario. A partir de ese año hasta la actualidad se ha incluido la interdisciplinariedad con la participación de estudiantes de varias carreras en busca de los mejores beneficios para el mismo.
           </p>
         </div>
 

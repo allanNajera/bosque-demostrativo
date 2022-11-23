@@ -76,5 +76,6 @@ select:invalid { color: black; }
   color: white;
   max-width: 2%;
   max-height: 2%;
+  margin-right: 2%;
   object-fit: contain;
 }

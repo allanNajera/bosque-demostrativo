@@ -167,7 +167,7 @@ const AddFlora = () => {
                 <form id="form" autocomplete="off" onSubmit={handleSubmit}>
                     <div>
                         <label id="tittle" for="tittle">
-                            Agregar Flora{" "}
+                            Agregar Planta{" "}
                         </label>
                     </div>
 

@@ -66,7 +66,7 @@ const Navbar = () => {
                             className="nav-item nav-link link "
                             to="/manageFlora"
                         >
-                            Flora
+                            Plantas 
                         </NavLink>
 
                         <NavLink

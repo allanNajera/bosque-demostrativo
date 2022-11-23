@@ -19,7 +19,7 @@ const BosqueDemostrativo = () => {
         
 
         <div className='mt-3 center-text ' >
-          <div><h3 className='h3-details ' >Bosque demostrativo</h3></div>
+          <div><h3 className='h3-details ' >Bosque Demostrativo</h3></div>
         </div>
 
         <div >
@@ -29,7 +29,7 @@ const BosqueDemostrativo = () => {
 
         <div>
           <h5>
-            ¿Quieres Visitar el Bosque demostrativo?
+            ¿Quieres Visitar el Bosque Demostrativo?
           </h5>
           <p className='center-justify p-details'>
             Para visitar el Bosque Demostrativo se requiere de una previa cita, para obtenerla se puede comunicar a los números de teléfono 2511-7117 o bien, al 8837-5790, este mismo se encuentra ubicado 1 km al oeste del Banco Nacional en San Ramón Centro, dentro del caserío San Pedro, distrito Alfaro.

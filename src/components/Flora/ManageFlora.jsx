@@ -120,7 +120,7 @@ export const ManageFlora = () => {
 
                     <div className="col-8">
                         <label id="tittle" for="tittle">
-                            Gestionar información de Flora{" "}
+                            Gestionar información de Plantas {" "}
                         </label>
                     </div>
                     <div className="col-4" style={{ marginTop: "6.6%" }}>
